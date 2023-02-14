@@ -95,6 +95,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\IRepositoryAutor.cs" />
+    <Compile Include="Repository\IRepositoryLibro.cs" />
     <Compile Include="Repository\RepositoryAutor.cs" />
   </ItemGroup>
   <ItemGroup>
