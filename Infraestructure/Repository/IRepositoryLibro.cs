@@ -8,5 +8,7 @@ namespace Infraestructure.Repository
 {
     class IRepositoryLibro
     {
+
+
     }
 }
